@@ -1,0 +1,10 @@
+agent_log:
+  flow: build|feat|fix
+  stage: "<stage-name>"
+  role: "<role-name>"
+  input: []
+  output: []
+  knowledge_artifacts: []
+  decisions: []
+  risks: []
+  next_gate: pass|blocked

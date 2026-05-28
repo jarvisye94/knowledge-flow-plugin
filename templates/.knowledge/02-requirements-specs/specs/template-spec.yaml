@@ -1,0 +1,15 @@
+metadata:
+  document_type: technical_specification
+  feature: "<feature-name>"
+
+background: "<why-this-exists>"
+goal: "<desired-outcome>"
+scope:
+  in: []
+  out: []
+interfaces: []
+fields: []
+rules: []
+exception_scenarios: []
+acceptance_criteria: []
+tdd_cases: []

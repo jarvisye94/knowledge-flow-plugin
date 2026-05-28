@@ -1,0 +1,10 @@
+metadata:
+  document_type: change_scope_ledger
+  feature: "<feature-name>"
+
+modifiable_files: []
+readonly_files: []
+forbidden_modules: []
+related_regression_scope: "<scope>"
+reason: "<reason>"
+risk_level: low|medium|high

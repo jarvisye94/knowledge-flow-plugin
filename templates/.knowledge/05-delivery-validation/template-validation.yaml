@@ -1,0 +1,10 @@
+metadata:
+  document_type: validation_record
+  feature: "<feature-name>"
+
+commands:
+  - command: "<command>"
+    environment: "<environment>"
+    result: "<summary>"
+    status: "pass|failed|blocked"
+    conclusion: "<conclusion>"

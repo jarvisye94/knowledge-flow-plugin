@@ -1,0 +1,19 @@
+{
+    "name": "knowledge-flow-plugin",
+    "version": "0.1.0",
+    "description": "Workflow-first Claude Code plugin that turns delivery stages into reusable project knowledge.",
+    "author": {
+        "name": "jarvisye"
+    },
+    "repository": "https://github.com/jarvisye94/knowledge-flow-plugin",
+    "license": "MIT",
+    "keywords": [
+        "claude-code",
+        "workflow",
+        "knowledge-base",
+        "delivery-pipeline",
+        "skills",
+        "commands",
+        "documentation"
+    ]
+}

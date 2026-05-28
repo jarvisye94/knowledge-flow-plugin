@@ -1,0 +1,17 @@
+metadata:
+  document_type: coding_standards
+  version: "1.0"
+
+naming:
+  files: "<convention>"
+  functions: "<convention>"
+  components: "<convention>"
+
+comments:
+  default_policy: "Write comments only for non-obvious why."
+
+testing:
+  required_for:
+    - "new behavior"
+    - "bug fixes"
+    - "risk-prone changes"

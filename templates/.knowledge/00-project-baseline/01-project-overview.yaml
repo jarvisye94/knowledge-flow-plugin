@@ -1,0 +1,20 @@
+metadata:
+  document_type: project_overview
+  version: "1.0"
+
+project:
+  name: "<project-name>"
+  purpose: "<project-purpose>"
+  primary_users:
+    - "<user-group>"
+
+technical_baseline:
+  stack:
+    - "<technology>"
+  development_mode: "<maintenance|new-build|hybrid>"
+
+boundaries:
+  readonly_by_default:
+    - "<module-or-area>"
+  high_risk_targets:
+    - "<module-or-area>"

@@ -1,0 +1,12 @@
+metadata:
+  document_type: iteration_note
+  feature: "<feature-name>"
+  stage: "<stage-name>"
+
+input: []
+confirmed_facts: []
+assumptions: []
+decisions: []
+risks: []
+open_questions: []
+next_steps: []

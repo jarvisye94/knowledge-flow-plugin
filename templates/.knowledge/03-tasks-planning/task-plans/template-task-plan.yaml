@@ -1,0 +1,13 @@
+metadata:
+  document_type: task_plan
+  feature: "<feature-name>"
+
+tasks:
+  - task_id: T1
+    goal: "<goal>"
+    input: []
+    output: []
+    dependencies: []
+    execution_order: 1
+    acceptance_criteria: []
+    risks_or_blockers: []

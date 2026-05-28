@@ -1,0 +1,10 @@
+metadata:
+  document_type: retrospective
+  feature: "<feature-name>"
+
+summary: "<summary>"
+what_worked: []
+what_failed_or_blocked: []
+root_causes: []
+prevention_actions: []
+follow_up_tasks: []

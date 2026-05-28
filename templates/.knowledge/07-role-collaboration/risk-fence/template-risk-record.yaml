@@ -1,0 +1,9 @@
+metadata:
+  document_type: risk_record
+  feature: "<feature-name>"
+
+risk_source: "<source>"
+impact_scope: "<scope>"
+suggested_action: "<action>"
+requires_manual_confirmation: false
+status: open|mitigated|accepted|blocked
